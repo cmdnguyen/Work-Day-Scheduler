@@ -4,9 +4,11 @@
 
 This is a simple calendar app to help track a person's work day. It's built in JavaScript to help track the time in the calendar and see what tasks are due for the day. This is a better way track the day without writing it down on a piece of paper or remembering what needs to be done.
 
+You can try it here: https://cmdnguyen.github.io/Work-Day-Scheduler/
+
 ## Installation
 
-Starter code provide by Coding Bootcamp Instructor, Eli Montoya.
+N/A
 
 ## Usage
 
